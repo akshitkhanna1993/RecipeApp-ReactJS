@@ -4,7 +4,7 @@ import Recipe from './Recipe';
 import './App.css';
 
 const App = () => {
-  const APP_ID = "020197eb";
+  const APP_ID = "******";
   const API_KEY = "******************";   //your api key
   
 
